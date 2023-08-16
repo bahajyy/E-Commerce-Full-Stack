@@ -1,0 +1,23 @@
+﻿using API.Core.DbModels;
+using API.Core.Interfaces;
+
+namespace API.Infrastructure.Implements
+{
+    public class GenericRepository<T> :IGenericRepository<T> where T : BaseEntity
+	{
+		public GenericRepository()
+		{
+		}
+
+        Task<T> IGenericRepository<T>.GetByIdAsync(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        Task<IReadOnlyList<T>> IGenericRepository<T>.ListAllAsync()
+        {
+            throw new NotImplementedException();
+        }
+    }
+}
+

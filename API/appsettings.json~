@@ -1,0 +1,12 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "DefaultConnection": "Server = PostgreSQL 15;Database=StoreDatabase;Trusted_Connection=True;MultipleActiveResultSet=True"
+  }
+}

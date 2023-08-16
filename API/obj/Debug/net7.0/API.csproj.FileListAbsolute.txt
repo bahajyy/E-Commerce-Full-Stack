@@ -1,0 +1,7 @@
+/Users/bahajyy/Desktop/dotnet/src/API/obj/Debug/net7.0/API.csproj.AssemblyReference.cache
+/Users/bahajyy/Desktop/dotnet/src/API/obj/Debug/net7.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bahajyy/Desktop/dotnet/src/API/obj/Debug/net7.0/API.AssemblyInfoInputs.cache
+/Users/bahajyy/Desktop/dotnet/src/API/obj/Debug/net7.0/API.AssemblyInfo.cs
+/Users/bahajyy/Desktop/dotnet/src/API/obj/Debug/net7.0/API.csproj.CoreCompileInputs.cache
+/Users/bahajyy/Desktop/dotnet/src/API/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cs
+/Users/bahajyy/Desktop/dotnet/src/API/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cache

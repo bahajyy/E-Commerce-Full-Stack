@@ -1,0 +1,7 @@
+﻿namespace API.Core.Interfaces
+{
+    public interface IGenericRepository
+	{
+	}
+}
+

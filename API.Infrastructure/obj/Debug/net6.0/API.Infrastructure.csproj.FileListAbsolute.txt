@@ -1,0 +1,15 @@
+/Users/bahajyy/Desktop/dotnet/src/API.Infrastructure/bin/Debug/net6.0/API.Infrastructure.deps.json
+/Users/bahajyy/Desktop/dotnet/src/API.Infrastructure/bin/Debug/net6.0/API.Infrastructure.dll
+/Users/bahajyy/Desktop/dotnet/src/API.Infrastructure/bin/Debug/net6.0/API.Infrastructure.pdb
+/Users/bahajyy/Desktop/dotnet/src/API.Infrastructure/bin/Debug/net6.0/API.Core.dll
+/Users/bahajyy/Desktop/dotnet/src/API.Infrastructure/bin/Debug/net6.0/API.Core.pdb
+/Users/bahajyy/Desktop/dotnet/src/API.Infrastructure/obj/Debug/net6.0/API.Infrastructure.csproj.AssemblyReference.cache
+/Users/bahajyy/Desktop/dotnet/src/API.Infrastructure/obj/Debug/net6.0/API.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bahajyy/Desktop/dotnet/src/API.Infrastructure/obj/Debug/net6.0/API.Infrastructure.AssemblyInfoInputs.cache
+/Users/bahajyy/Desktop/dotnet/src/API.Infrastructure/obj/Debug/net6.0/API.Infrastructure.AssemblyInfo.cs
+/Users/bahajyy/Desktop/dotnet/src/API.Infrastructure/obj/Debug/net6.0/API.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/bahajyy/Desktop/dotnet/src/API.Infrastructure/obj/Debug/net6.0/API.Infrastructure.csproj.CopyComplete
+/Users/bahajyy/Desktop/dotnet/src/API.Infrastructure/obj/Debug/net6.0/API.Infrastructure.dll
+/Users/bahajyy/Desktop/dotnet/src/API.Infrastructure/obj/Debug/net6.0/refint/API.Infrastructure.dll
+/Users/bahajyy/Desktop/dotnet/src/API.Infrastructure/obj/Debug/net6.0/API.Infrastructure.pdb
+/Users/bahajyy/Desktop/dotnet/src/API.Infrastructure/obj/Debug/net6.0/ref/API.Infrastructure.dll
