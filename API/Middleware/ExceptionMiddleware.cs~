@@ -1,0 +1,13 @@
+﻿using System;
+namespace API.MiddleWare
+{
+	public class ExceptionMiddleWare
+	{
+
+
+		public ExceptionMiddleWare()
+		{
+		}
+	}
+}
+
