@@ -44,3 +44,8 @@
 /Users/bahajyy/Desktop/dotnet/src/API/obj/Debug/net6.0/API.pdb
 /Users/bahajyy/Desktop/dotnet/src/API/obj/Debug/net6.0/API.genruntimeconfig.cache
 /Users/bahajyy/Desktop/dotnet/src/API/obj/Debug/net6.0/ref/API.dll
+/Users/bahajyy/Desktop/dotnet/src/API/bin/Debug/net6.0/AutoMapper.dll
+/Users/bahajyy/Desktop/dotnet/src/API/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/bahajyy/Desktop/dotnet/src/API/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
+/Users/bahajyy/Desktop/dotnet/src/API/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/bahajyy/Desktop/dotnet/src/API/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll

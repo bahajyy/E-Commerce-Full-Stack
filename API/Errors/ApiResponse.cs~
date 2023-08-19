@@ -1,0 +1,39 @@
+﻿using System;
+namespace API.Errors
+{
+	public class ApiResponse
+	{
+		public ApiResponse(int statusCode,string message=null)
+		{
+			this.StatusCode = statusCode;
+			this.Message = message ?? GetDefaultMessageForStatusCode(statusCode);
+
+		}
+
+        public int StatusCode { get; set; }
+		public string Message { get; set; }
+
+        private string GetDefaultMessageForStatusCode(int statusCode)
+        {
+            string errorMessage = string.Empty;
+            switch (statusCode)
+            {
+                case 400:
+                    errorMessage = "A bad request!";
+                    break;
+                case 401:
+                    errorMessage = "Authorized error!";
+                    break;
+                case 404:
+                    errorMessage = "Resource not found";
+                    break;
+                case 500:
+                    errorMessage = "Service error";
+                    break;
+            }
+            return errorMessage;
+        }
+
+    }
+}
+
