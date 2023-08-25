@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HRFYsVj6jKDcR3Ml0m6EyoCJaj2X9a5EFkXvObu2ex/xfPIAJpM4GRbiEvcX7zb+46zwdqLVz8ZNFUHoY7MLJg==",
+  "dgSpecHash": "V58OUuymXdanqluIp+tYzb8SLqnzgY4TFSCMWOwyMgTU94bmuMMCrPaO/h0/oDVC3mGO2IROq5vy5grXX6ETLA==",
   "success": true,
-  "projectFilePath": "/Users/bahajyy/Desktop/dotnet/src/API.Infrastructure/API.Infrastructure.csproj",
+  "projectFilePath": "/Users/bahajyy/Desktop/project-E-Commerce/API.Infrastructure/API.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/Users/bahajyy/.nuget/packages/microsoft.entityframeworkcore/6.0.21/microsoft.entityframeworkcore.6.0.21.nupkg.sha512",
     "/Users/bahajyy/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.21/microsoft.entityframeworkcore.abstractions.6.0.21.nupkg.sha512",

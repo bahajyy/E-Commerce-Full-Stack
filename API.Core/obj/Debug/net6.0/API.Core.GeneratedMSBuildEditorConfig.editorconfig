@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = API.Core
-build_property.ProjectDir = /Users/bahajyy/Desktop/dotnet/src/API.Core/
+build_property.ProjectDir = /Users/bahajyy/Desktop/project-E-Commerce/API.Core/

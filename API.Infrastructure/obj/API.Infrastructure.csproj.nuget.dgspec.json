@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bahajyy/Desktop/dotnet/src/API.Infrastructure/API.Infrastructure.csproj": {}
+    "/Users/bahajyy/Desktop/project-E-Commerce/API.Infrastructure/API.Infrastructure.csproj": {}
   },
   "projects": {
-    "/Users/bahajyy/Desktop/dotnet/src/API.Core/API.Core.csproj": {
+    "/Users/bahajyy/Desktop/project-E-Commerce/API.Core/API.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bahajyy/Desktop/dotnet/src/API.Core/API.Core.csproj",
+        "projectUniqueName": "/Users/bahajyy/Desktop/project-E-Commerce/API.Core/API.Core.csproj",
         "projectName": "API.Core",
-        "projectPath": "/Users/bahajyy/Desktop/dotnet/src/API.Core/API.Core.csproj",
+        "projectPath": "/Users/bahajyy/Desktop/project-E-Commerce/API.Core/API.Core.csproj",
         "packagesPath": "/Users/bahajyy/.nuget/packages/",
-        "outputPath": "/Users/bahajyy/Desktop/dotnet/src/API.Core/obj/",
+        "outputPath": "/Users/bahajyy/Desktop/project-E-Commerce/API.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bahajyy/.nuget/NuGet/NuGet.Config"
@@ -57,14 +57,14 @@
         }
       }
     },
-    "/Users/bahajyy/Desktop/dotnet/src/API.Infrastructure/API.Infrastructure.csproj": {
+    "/Users/bahajyy/Desktop/project-E-Commerce/API.Infrastructure/API.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bahajyy/Desktop/dotnet/src/API.Infrastructure/API.Infrastructure.csproj",
+        "projectUniqueName": "/Users/bahajyy/Desktop/project-E-Commerce/API.Infrastructure/API.Infrastructure.csproj",
         "projectName": "API.Infrastructure",
-        "projectPath": "/Users/bahajyy/Desktop/dotnet/src/API.Infrastructure/API.Infrastructure.csproj",
+        "projectPath": "/Users/bahajyy/Desktop/project-E-Commerce/API.Infrastructure/API.Infrastructure.csproj",
         "packagesPath": "/Users/bahajyy/.nuget/packages/",
-        "outputPath": "/Users/bahajyy/Desktop/dotnet/src/API.Infrastructure/obj/",
+        "outputPath": "/Users/bahajyy/Desktop/project-E-Commerce/API.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bahajyy/.nuget/NuGet/NuGet.Config"
@@ -79,8 +79,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/bahajyy/Desktop/dotnet/src/API.Core/API.Core.csproj": {
-                "projectPath": "/Users/bahajyy/Desktop/dotnet/src/API.Core/API.Core.csproj"
+              "/Users/bahajyy/Desktop/project-E-Commerce/API.Core/API.Core.csproj": {
+                "projectPath": "/Users/bahajyy/Desktop/project-E-Commerce/API.Core/API.Core.csproj"
               }
             }
           }

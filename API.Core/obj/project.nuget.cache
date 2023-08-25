@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TJ8R66Jcua+KNXBVSdBtVaMCrIRlQ5nTVTtzBvNvKDSgd/sn/k2jayCfbWnRtsBp+8icEIJ/lFvFJbTSvfNXjA==",
+  "dgSpecHash": "Kyh/HN6d622wK7eiRow/cteZEt6/wWGhLS7tAuq6id+rODm8FzYGhIKAlIEEXMa/atlTdRC5BcvuNTx5vaWyKw==",
   "success": true,
-  "projectFilePath": "/Users/bahajyy/Desktop/dotnet/src/API.Core/API.Core.csproj",
+  "projectFilePath": "/Users/bahajyy/Desktop/project-E-Commerce/API.Core/API.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

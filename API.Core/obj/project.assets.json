@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bahajyy/Desktop/dotnet/src/API.Core/API.Core.csproj",
+      "projectUniqueName": "/Users/bahajyy/Desktop/project-E-Commerce/API.Core/API.Core.csproj",
       "projectName": "API.Core",
-      "projectPath": "/Users/bahajyy/Desktop/dotnet/src/API.Core/API.Core.csproj",
+      "projectPath": "/Users/bahajyy/Desktop/project-E-Commerce/API.Core/API.Core.csproj",
       "packagesPath": "/Users/bahajyy/.nuget/packages/",
-      "outputPath": "/Users/bahajyy/Desktop/dotnet/src/API.Core/obj/",
+      "outputPath": "/Users/bahajyy/Desktop/project-E-Commerce/API.Core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/bahajyy/.nuget/NuGet/NuGet.Config"
