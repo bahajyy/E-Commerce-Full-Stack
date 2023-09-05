@@ -1,0 +1,67 @@
+<div class="container">
+  <div class="row">
+    <section class="col-md-3">
+      <div class="card mb-4">
+        <div class="card-body">
+          <h5 class="card-title"><strong>SORT</strong></h5>
+          <select class="form-select mb-3" (change)="onSortSelected($event)">
+            <option *ngFor="let sort of sortOptions" [value]="sort.value">{{sort.name}}</option>
+            
+          </select>
+
+          <h5 class="card-title mt-4"><strong>BRANDS</strong></h5>
+          <ul class="list-group">
+            <li
+              class="list-group-item list-group-item-action"
+              *ngFor="let brand of brands"
+              [class.active]="brand.id === this.shopParams.brandId"
+              (click)="onBrandSelected(brand.id)"
+            >
+              {{ brand.name }}
+            </li>
+          </ul>
+
+          <h5 class="card-title mt-4"><strong>TYPES</strong></h5>
+          <ul class="list-group">
+            <li
+              class="list-group-item list-group-item-action"
+              *ngFor="let type of types"
+              [class.active]="type.id === this.shopParams.typeId"
+              (click)="onTypeSelected(type.id)"
+            >
+              {{ type.name }}
+            </li>
+          </ul>
+        </div>
+      </div>
+      
+    </section>
+
+    <section class="col-md-9">
+      <div class="row mb-4">
+        <div class="col-md-8">
+          <div class="input-group">
+            <input class="form-control" #search placeholder="Search" type="text" />
+            <button (click)="onSearch()" class="btn btn-outline-primary">Search</button>
+            <button (click)="onReset()" class="btn btn-outline-success ml-2">Reset</button>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <select class="form-select">
+            <option selected>Show 12</option>
+            <option>Show 24</option>
+            <option>Show 36</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+        <div class="col mb-3" *ngFor="let item of products">
+          <div class="card h-100">
+            <app-product-item [product]="item"></app-product-item>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>

@@ -32,11 +32,25 @@
     <None Remove="Helpers\" />
     <None Remove="Errors\" />
     <None Remove="Extensions\" />
+    <None Remove="Content\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Dtos\" />
     <Folder Include="Helpers\" />
     <Folder Include="Errors\" />
     <Folder Include="Extensions\" />
+    <Folder Include="Content\" />
+    <Folder Include="wwwroot\" />
+    <Folder Include="wwwroot\images\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\" />
+    <Content Remove="wwwroot\images\products\audi.jpeg" />
+    <Content Remove="wwwroot\images\products\bmw.jpg" />
+    <Content Remove="wwwroot\images\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="wwwroot\images\products\audi.jpg" />
+    <None Include="wwwroot\images\products\bmw.jpg" />
   </ItemGroup>
 </Project>

@@ -19,9 +19,9 @@ namespace API.Core.Specifications
         public string? Sort { get; set; }
 
 
-		private string _search;
+		private string? _search;
 
-		public string Search
+		public string? Search
 		{
 			get { return _search; }
 			set

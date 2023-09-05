@@ -1,0 +1,16 @@
+
+  .container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+
+  .col-md-3 {
+    flex: 0 0 auto;
+    padding-right: 20px;
+  }
+
+  .col-md-9 {
+    flex: 1 1 auto;
+  }
+

@@ -20,3 +20,14 @@
 /Users/bahajyy/Desktop/src copy/API.Core/obj/Debug/net6.0/refint/API.Core.dll
 /Users/bahajyy/Desktop/src copy/API.Core/obj/Debug/net6.0/API.Core.pdb
 /Users/bahajyy/Desktop/src copy/API.Core/obj/Debug/net6.0/ref/API.Core.dll
+/Users/bahajyy/Desktop/project-E-Commerce/API.Core/bin/Debug/net6.0/API.Core.deps.json
+/Users/bahajyy/Desktop/project-E-Commerce/API.Core/bin/Debug/net6.0/API.Core.dll
+/Users/bahajyy/Desktop/project-E-Commerce/API.Core/bin/Debug/net6.0/API.Core.pdb
+/Users/bahajyy/Desktop/project-E-Commerce/API.Core/obj/Debug/net6.0/API.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bahajyy/Desktop/project-E-Commerce/API.Core/obj/Debug/net6.0/API.Core.AssemblyInfoInputs.cache
+/Users/bahajyy/Desktop/project-E-Commerce/API.Core/obj/Debug/net6.0/API.Core.AssemblyInfo.cs
+/Users/bahajyy/Desktop/project-E-Commerce/API.Core/obj/Debug/net6.0/API.Core.csproj.CoreCompileInputs.cache
+/Users/bahajyy/Desktop/project-E-Commerce/API.Core/obj/Debug/net6.0/API.Core.dll
+/Users/bahajyy/Desktop/project-E-Commerce/API.Core/obj/Debug/net6.0/refint/API.Core.dll
+/Users/bahajyy/Desktop/project-E-Commerce/API.Core/obj/Debug/net6.0/API.Core.pdb
+/Users/bahajyy/Desktop/project-E-Commerce/API.Core/obj/Debug/net6.0/ref/API.Core.dll
